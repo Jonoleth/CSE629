@@ -1,0 +1,16 @@
+GET /update/6/Firefox/72.0.2/20200117190643/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%206.3.0.0.9600%20(x64)/ISET:SSE4_2,MEM:16272/default/default/update.xml 
+Method: GET
+Path: /update/6/Firefox/72.0.2/20200117190643/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%206.3.0.0.9600%20(x64)/ISET:SSE4_2,MEM:16272/default/default/update.xml
+Host: aus5.mozilla.org
+Scheme: https
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Pragma: no-cache
+Cookie: optimizelyEndUserId=oeu1463536779404r0.16187690692693402
+Cookie: optimizelySegments=%7B%22245984388%22%3A%22false%22%2C%22246002457%22%3A%22search%22%2C%22246073289%22%3A%22none%22%2C%22246073290%22%3A%22ff%22%7D
+Cookie: optimizelyBuckets=%7B%7D
+Te: trailers
+

@@ -1,0 +1,7 @@
+[hosts]
+detectportal.firefox.com=
+127.0.0.1=
+ocsp.digicert.com=
+ocsp.pki.goog=
+safebrowsing.googleapis.com=
+aus5.mozilla.org=

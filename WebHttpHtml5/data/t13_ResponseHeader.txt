@@ -1,0 +1,17 @@
+HTTP/2.0 200
+Status: 200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 42
+Server: nginx/1.17.1
+Date: Sun, 09 Feb 2020 19:02:24 GMT
+Cache-Control: public, max-age=90
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Via: 1.1 google, 1.1 6232ab8d1c60778053fd7b2d4bbeb7e4.cloudfront.net (CloudFront)
+Alt-Svc: clear
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: ORD51-C2
+X-Amz-Cf-Id: MNqoq-4u6v5OQk49DOHvBYX_NkzjrlZRSM5aocYqdqSFQZD176c59Q==
+

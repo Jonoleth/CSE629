@@ -1,0 +1,38 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: WebTours",
+                "infFile": "t3.inf",
+                "time": 1581275450064
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t10.inf",
+                "time": 1581275452714
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: update.xml",
+                "infFile": "t11.inf",
+                "time": 1581275452991
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t13.inf",
+                "time": 1581275453225
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Submit Form: reservations.pl",
+                "infFile": "t14.inf",
+                "time": 1581275453296
+            }
+        ],
+        "transactions": []
+    }
+]

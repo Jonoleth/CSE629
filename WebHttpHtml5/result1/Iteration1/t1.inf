@@ -1,0 +1,16 @@
+[t1]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=DummyContentType
+StepName=Custom Request: ocsp.digicert.com
+Total=2
+FileName1=t1.UNK
+FileName2=t1_1_success.html
+RequestHeaderFile=t1_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1581275440192
+RawStepName=ocsp.digicert.com
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1581275440097
+URL1=http://ocsp.digicert.com/
+URL2=http://detectportal.firefox.com/success.txt
